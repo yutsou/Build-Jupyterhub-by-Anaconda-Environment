@@ -1,5 +1,10 @@
 # Build Jupyterhub by Anaconda Environment
 Because the official documentation use built-in python to build jupyterhub, not use an anaconda environment. So this tutorial explains how to build jupyterhub by anaconda environment, and forgive my poor English.
+
+This tutorial refers to the following pages:<br>
+https://jupyterhub.readthedocs.io/en/stable/quickstart.html<br>
+https://jupyterhub.readthedocs.io/en/stable/installation-guide-hard.html<br>
+https://jupyterhub.readthedocs.io/en/stable/reference/config-sudo.html
 ## OS
 ubuntu-20.04.2-live-server-amd64
 # 1. Install Node.js (LTS)
